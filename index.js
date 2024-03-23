@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["5.0/5,0 rating",""];
+const statusMessages = ["5.0/5.0 rating",""];
 
 
 let currentIndex = 0;
