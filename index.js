@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Watching **All Commands Running Smoothly**",""];
+const statusMessages = ["5.0/5,0 rating",""];
 
 
 let currentIndex = 0;
